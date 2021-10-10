@@ -12,6 +12,6 @@ Pengembangan Aplikasi Penyewaan Alat Outdoor
   Sistem dapat menampilkan stok barang. Sistem dapat menampilkan laporan penyewaan.
   Sistem dapat menampilkan riwayat peminjaman barang.
   b. Kebutuhan Non Fungsional
-  Penggunaan program membutuhkan Sistem Operasi Windows 10, XAMPP, CodeIgniter 
+  Penggunaan program membutuhkan Sistem Operasi Windows 10, XAMPP, 
   model PHP MVC (Model, View dan Controller), database MySQL dan VScode.
   Sistem dapat digunakan melalui web browser diantaranya Mozilla Firefox dan Chrome
