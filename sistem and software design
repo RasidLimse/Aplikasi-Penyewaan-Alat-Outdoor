@@ -1,0 +1,16 @@
+System and Software Design
+A.	Support System
+Pada program penyewaan alat outdoor berbasis web ini memerlukan spesifikasi yang harus dimiliki komputer atau laptop untuk menjalankan program ini. Berikut ini sarana pendukung yang diperlukan antara lain :
+KEBUTUHAN	       KETERANGAN
+Sistem operasi : Window 7 atau diatasnya
+Processor      : Intel pentium 4 dual core
+Harddisk	     : Minimum 160 gb
+Monitor	       : CRT atau LCD 14”
+Keyboard	     : 108 key
+Printer	       : Laser Jet atau Inkjet
+Browser	       : Google chrome,Mozilla Firefox,Microsoft Edge
+Software	     : - Bahasa server side : PHP
+	               - Bahasa markup : HTML
+	               - Bahasa Style sheet : CSS
+Web server	   : Apache
+Database       : MySQL
