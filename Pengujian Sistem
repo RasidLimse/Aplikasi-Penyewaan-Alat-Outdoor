@@ -1,0 +1,21 @@
+PENGUJIAN SISTEM
+Pengujian ini ditujukan untuk menguji keterhubungan dari tiap-tiap fungsi perangkat lunak untuk menjamin bahwa persyaratan sistem telah terpenuhi.Setelah pengujian sistem selesai dilakukan, perangkat lunak dikirim ke
+pengguna. Pengujian ini dilakukan dengan metode Black Box testing,karena pengujian ini tidak menekankan pada struktur softwere melainkantujuan Black Box testing adalah menentukan apakah aplikasi sudah berjalan
+sesuai yang diinginkan dan mengetahui kesalahan interface, kesalahandalam akses database dan kesalahan kinerja.
+No. Langkah                       Kondisi                                    Hasil yang diharapkan                                      Hasil
+1. Penyewa mendaftar         -Penyewa mengisi data diri di sistem              -penyewa berhasil mendaftar                                 -
+  ke sistem  Valid
+
+2. Admin atau penyewa       -Memasukkan password dan username yang benar        -admin atau penyewa berhasil masuk ke sistem                -
+  masuk ke system         
+
+3. Admin atau peminjam       -Ada username atau password yang salah            -admin atau penyewa gagal masuk ke sistem dan                 -
+  gagal masuk ke system                                                         masih berada pada halaman login
+       
+
+4. tambah, hapus, dan ubah   -Admin menambah,menghapus,dan                       -admin berhasil menambah,menghapus dan mengubah             -
+  data alat                  mengubah data alat                                   data alat
+                   
+5. Penyewa alat               -Penyewa melakukan penyewaan alat                   -penyewa berhasil melakukan penyewaan alat                  -
+
+6. Mencetak laporan           -Admin mencetak laporan                              -admin berhasil mencetak laporan
