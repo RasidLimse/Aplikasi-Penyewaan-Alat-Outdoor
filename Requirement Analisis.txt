@@ -1,4 +1,10 @@
-Pengembangan Aplikasi Penyewaan Alat Outdoor 
+Pengembangan Aplikasi Penyewaan Alat Outdoor
+
+1.5200411255 Rasid Ferdinan
+2.5200411278 Riky Ananda Setyanto
+3.5200411339 Asep Zainal Alfarizi
+4.5160411289 Dicky putra perdana 
+
 
 * Analisis prosedur sistem
   Dalam pembuatan suatu program diperlukan tahapan menganalisa kebutuhan yang diinginkan dengan 
