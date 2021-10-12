@@ -4,13 +4,13 @@ Pada program penyewaan alat outdoor berbasis web ini memerlukan spesifikasi yang
 KEBUTUHAN	       KETERANGAN
 Sistem operasi : Window 7 atau diatasnya
 Processor      : Intel pentium 4 dual core
-Harddisk	     : Minimum 160 gb
+Harddisk       : Minimum 160 gb
 Monitor	       : CRT atau LCD 14”
-Keyboard	     : 108 key
+Keyboard       : 108 key
 Printer	       : Laser Jet atau Inkjet
 Browser	       : Google chrome,Mozilla Firefox,Microsoft Edge
-Software	     : - Bahasa server side : PHP
-	               - Bahasa markup : HTML
-	               - Bahasa Style sheet : CSS
-Web server	   : Apache
+Software       : - Bahasa server side : PHP
+	         - Bahasa markup : HTML
+	         - Bahasa Style sheet : CSS
+Web server     : Apache
 Database       : MySQL
